@@ -16,7 +16,7 @@ public class Aula02TiposPrimitivos {
 		char caractere = 10;			//2 bytes Unicode ou ASCII
 		String a = "Texto grande";
 
-		System.out.println(idadeByte);	
-
+		System.out.println(idadeByte);
+		System.out.println(a);
 	}
 }
